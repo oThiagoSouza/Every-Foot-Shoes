@@ -81,3 +81,9 @@ footer a {
         margin-left: 260px;
     }
 }
+
+@media screen and (max-width: 529px) {
+    .card-footer button {
+        margin-left: 70px;
+    }
+}
