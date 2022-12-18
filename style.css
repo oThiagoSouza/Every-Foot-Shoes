@@ -86,4 +86,8 @@ footer a {
     .card-footer button {
         margin-left: 70px;
     }
+
+    #promocoes .card-footer button {
+        margin-left: 30px;
+    }
 }
