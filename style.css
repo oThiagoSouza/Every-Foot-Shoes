@@ -85,17 +85,17 @@ footer a {
     }
 }
 
-@media screen and (max-width: 529px) {
+@media screen and (max-width: 529px) and (min-width: 250px) {
     #promocoes .card-footer {
         font-size: 12px;
     }
 
     #promocoes .card button {
-        margin-left: 20px;
+        margin-left: 50px;
     }
 
     .card button {
-        margin-left: 10px;
+        margin-left: 75px;
     }
 
     footer {
