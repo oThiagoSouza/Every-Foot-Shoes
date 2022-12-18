@@ -77,7 +77,7 @@ footer a {
 
 @media screen and (max-width: 767px) and (min-width:530px) {
     .card button {
-        margin-left: 260px;
+        margin-left: 240px;
     }
 
     #promocoes .card button {
