@@ -65,3 +65,19 @@ footer a {
     display: flex;
     justify-content: center;
 }
+
+@media screen and (max-width: 1199px) and (min-width: 768px) {
+    .card-footer button {
+        margin-left: 50px;
+    }
+
+    .card-footer {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .card button {
+        margin-left: 260px;
+    }
+}
